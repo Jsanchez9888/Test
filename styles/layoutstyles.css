@@ -1,0 +1,41 @@
+.common {
+    background-color: rgb(228, 220, 153);
+    border: solid 2px rgb(143, 137, 137);
+    position: absolute;}
+
+.header {
+    top: 2px;
+    left: 2px;
+    right: 2px;
+    height: 107px;
+    z-index: 2;}
+
+.leftmenu {
+    top: 114px;
+    left: 2px;
+    width: 142px;
+    bottom: 57px;
+    z-index: 1;
+    padding-top: 5px;}
+
+.mainbody {
+    top: 114px;
+    bottom: 57px;
+    left: 150px;
+    right: 150px;}
+
+.rightmenu {
+    top: 114px;
+    bottom: 57px;
+    right: 2px;
+    width: 142px;}
+
+.footer {
+    bottom: 2px;
+    height: 50px;
+    left: 2px;
+    right: 2px;
+    text-align: center;}
+
+.subheader {
+    float: right;}
